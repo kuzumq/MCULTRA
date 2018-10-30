@@ -1,7 +1,7 @@
 ## Title: |r[|cffFFA500MCULTRA|r]
 ## Notes: 
 ## Interface: 70000
-## Version: 0.1
+## Version: 0.2
 ## Author: Kuzum
 ## SavedVariables:MCULTRA_DB
 
